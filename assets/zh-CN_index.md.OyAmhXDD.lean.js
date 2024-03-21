@@ -1,0 +1,1 @@
+import{_ as s,l as i,a,a6 as h}from"./chunks/framework.BLkoccIs.js";const g=JSON.parse('{"title":"介绍","description":"","frontmatter":{},"headers":[],"relativePath":"zh-CN/index.md","filePath":"zh-CN/index.md"}'),n={name:"zh-CN/index.md"},t=h("",9),l=[t];function e(k,p,r,d,o,c){return a(),i("div",null,l)}const y=s(n,[["render",e]]);export{g as __pageData,y as default};
